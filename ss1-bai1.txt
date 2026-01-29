@@ -1,0 +1,14 @@
+- Client: gửi yêu cầu
+	+ URL dự kiến: http://localhost:8080/api/products
+	+ HTTP Method: GET
+
+- Server: xử lý logic tại spring boot
+	+ Nhận yêu cầu
+	+ Xử lý logic
+	+ Lấy dữ liệu	
+
+- Database: nguồn dữ liệu
+	+ Lưu đối tượng trong danh sách và trả về khi server yêu cầu
+
+- Response: kết quả trả về
+	+ Định dạng JSON
